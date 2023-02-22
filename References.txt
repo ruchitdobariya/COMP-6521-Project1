@@ -1,0 +1,15 @@
+1.	https://www.baeldung.com/java-quicksort
+2.	https://docs.oracle.com/javase/8/docs/api/java/io/BufferedReader.html
+3.  https://docs.oracle.com/javase/8/docs/api/java/io/BufferedWriter.html
+4.	https://www.edureka.co/community/5621/default-parameters-of-xms-and-xmx-in-jvm
+5.  https://coderanch.com/t/654510/java/Xmx-MB-Max-heap-size
+6.	https://github.com/sagarvetal/ADB_Project_1_TPMMS
+7.	https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html
+8.  https://docs.oracle.com/javase/tutorial/essential/io/copy.html
+9.  https://docs.oracle.com/javase/tutorial/essential/io/delete.html
+10. https://docs.oracle.com/javase/tutorial/essential/io/dirs.html
+11. https://codereview.stackexchange.com/questions/188716/merge-sorted-lists-removing-duplicates
+12. https://www.tutorialspoint.com/how-to-measure-execution-time-for-a-java-method
+13. https://www.baeldung.com/java-memory-beyond-heap 
+14. https://stackoverflow.com/questions/48798024/java-consumes-memory-more-than-xmx-argument
+15. https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
